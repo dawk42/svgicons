@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="video-streaming-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="36.813747"
+     inkscape:cx="4.7944047"
+     inkscape:cy="9.8061195"
+     inkscape:window-width="1458"
+     inkscape:window-height="749"
+     inkscape:window-x="319"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 12,1 c 1.662,0 3,1.338 3,3 v 6 c 0,1.662 -1.338,3 -3,3 H 4 C 2.338,13 1,11.662 1,10 V 4 C 1,2.338 2.338,1 4,1 Z m 0,2 H 4 C 3.446,3 3,3.446 3,4 v 6 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 4 C 13,3.446 12.554,3 12,3 Z"
+     fill="#474747"
+     id="path2"
+     sodipodi:nodetypes="ssssssssssssssssss" />
+  <path
+     style="fill:#474747;fill-opacity:1;stroke:#474747;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 6.6940229,5.9878775 V 8.3170359 L 9.6040583,7.0961558 Z"
+     id="path62"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;stroke:#474747;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.7618732,14.461004 H 4.9740291"
+     id="path3224"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#474747;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 6.765812,14.449298 7.471465,0.01171"
+     id="path9294"
+     sodipodi:nodetypes="cc" />
+  <metadata
+     id="metadata11607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Derek Van Vuuren</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>30 Aug 2022</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
